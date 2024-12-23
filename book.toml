@@ -1,0 +1,10 @@
+[book]
+title = "Adam's Notebook"
+authors = ["Adam Gaia"]
+src = "."
+language = "en"
+multilingual = false
+
+[output.html]
+git-repository-url = "https://github.com/adam-gaia/notebook"
+edit-url-template = "https://github.com/adam-gaia/notebook/edit/main/{path}"
